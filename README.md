@@ -38,4 +38,4 @@
 </div>
 
 ------
-Credits: [Pepyn0](https://github.com/mjmokhtar)
+Credits: [MJ](https://github.com/mjmokhtar)
